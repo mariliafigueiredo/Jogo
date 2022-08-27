@@ -4,7 +4,6 @@ def jogar():
     print("****Bem vindo no jogo de Forca!**")
     print("*********************************")
 
-
     arquivo = open("palavras.txt", "r")
     palavras = []
 
